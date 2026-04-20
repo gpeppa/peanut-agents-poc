@@ -1,0 +1,5 @@
+{
+  "name": "peanut-agents-poc",
+  "version": "0.1.0",
+  "description": "Multi-agent SDLC automation via Claude Code. See CLAUDE.md."
+}
